@@ -338,9 +338,8 @@ Implement the selective FutureHouse integration layer that validates only top-ra
 
 Include error handling for API failures and rate limits.
 ```
-
 ---
-```
+
 ## **PROMPT 6: Code Generation Orchestrator (Gemini + GPT-5)**
 
 ```
