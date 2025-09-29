@@ -406,9 +406,8 @@ Include safety checks: never execute code outside the sandbox.
 ```
 
 ---
-```
-## **PROMPT 7: Dashboard UI (React Frontend)**
 
+## **PROMPT 7: Dashboard UI (React Frontend)**
 ```
 Build the React + Tailwind dashboard. It must display the rich, structured data from our new idea generator.
 
@@ -466,7 +465,7 @@ Provide complete code for the **Idea Detail** page, as it's the most complex and
 ```
 
 ---
-```
+
 ## **PROMPT 8: Integration & End-to-End Workflow**
 
 ```
@@ -532,7 +531,7 @@ Provide the complete orchestrator implementation.
 ```
 
 ---
-```
+
 ## **PROMPT 9: Testing, Documentation & Deployment**
 
 ```
