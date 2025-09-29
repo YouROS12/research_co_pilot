@@ -504,7 +504,6 @@ Integrate all components and build the complete end-to-end workflow orchestrator
      
      futurehouse:
        budget_limit: 30
-   ```
 
 3. **API Endpoints for Workflow:**
    - POST /api/workflow/batch - Start new batch
@@ -574,7 +573,6 @@ Provide the monitoring setup and the performance test for the batch processor.
 ```
 
 ---
-```
 ## **PROMPT 10: Advanced Features & Polish**
 
 ```
