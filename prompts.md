@@ -143,11 +143,11 @@ papers = client.search(
 for paper in papers:
     client.download_pdf(paper.pdf_url, paper.arxiv_id)
     client.save_to_db(paper)
-```
 
 Provide the complete implementation with error handling and logging.
 ```
 ```
+
 
 ---
 
