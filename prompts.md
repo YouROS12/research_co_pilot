@@ -150,7 +150,7 @@ Provide the complete implementation with error handling and logging.
 
 
 ---
-
+```
 ## **PROMPT 3: Idea Bank Generator (Long-Context Synthesis)**
 
 ```
@@ -210,7 +210,7 @@ Provide the complete implementation, especially the prompt template and the JSON
 ```
 
 ---
-
+```
 ## **PROMPT 4: Ranking Engine (Hybrid Scoring)**
 
 ```
@@ -293,7 +293,7 @@ Provide complete implementation with example scoring.
 ```
 
 ---
-
+```
 ## **PROMPT 5: FutureHouse API Integration**
 
 ```
@@ -342,7 +342,7 @@ Include error handling for API failures and rate limits.
 ```
 
 ---
-
+```
 ## **PROMPT 6: Code Generation Orchestrator (Gemini + GPT-5)**
 
 ```
@@ -409,7 +409,7 @@ Include safety checks: never execute code outside the sandbox.
 ```
 
 ---
-
+```
 ## **PROMPT 7: Dashboard UI (React Frontend)**
 
 ```
@@ -469,7 +469,7 @@ Provide complete code for the **Idea Detail** page, as it's the most complex and
 ```
 
 ---
-
+```
 ## **PROMPT 8: Integration & End-to-End Workflow**
 
 ```
@@ -535,7 +535,7 @@ Provide the complete orchestrator implementation.
 ```
 
 ---
-
+```
 ## **PROMPT 9: Testing, Documentation & Deployment**
 
 ```
@@ -578,7 +578,7 @@ Provide the monitoring setup and the performance test for the batch processor.
 ```
 
 ---
-
+```
 ## **PROMPT 10: Advanced Features & Polish**
 
 ```
