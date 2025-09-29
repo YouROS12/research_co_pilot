@@ -254,7 +254,7 @@ Implement the hybrid ranking system. This system **calibrates and augments** the
        0.20 * final_impact -
        0.15 * risk_score
    )
-   ```
+
 
 3. **Ranking Logic & Explainability:**
    - Compute scores, sort descending, and filter by a configurable threshold (e.g., > 0.6).
