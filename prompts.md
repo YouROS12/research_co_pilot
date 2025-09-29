@@ -285,9 +285,9 @@ Implement the hybrid ranking system. This system **calibrates and augments** the
     "notes": ["Feasibility downgraded: 'Hospital-X-Data' identified as proprietary."]
   }
 }
-```
+
 Provide complete implementation with example scoring.
-```
+
 ```
 
 ---
