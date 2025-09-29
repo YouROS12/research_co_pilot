@@ -146,11 +146,8 @@ for paper in papers:
 
 Provide the complete implementation with error handling and logging.
 ```
-```
-
-
 ---
-```
+
 ## **PROMPT 3: Idea Bank Generator (Long-Context Synthesis)**
 
 ```
@@ -210,7 +207,7 @@ Provide the complete implementation, especially the prompt template and the JSON
 ```
 
 ---
-```
+
 ## **PROMPT 4: Ranking Engine (Hybrid Scoring)**
 
 ```
@@ -291,9 +288,10 @@ Implement the hybrid ranking system. This system **calibrates and augments** the
 ```
 Provide complete implementation with example scoring.
 ```
+```
 
 ---
-```
+
 ## **PROMPT 5: FutureHouse API Integration**
 
 ```
